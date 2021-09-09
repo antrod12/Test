@@ -6,14 +6,6 @@
 
 ### Remember that constants should be capitalized 
 
-final int BIG = 10_000_000;
-
-During the class, I have learned about different infinities
-
-Integer.MAX_VALUE
-Double.MAX_VALUE + 1 
-
-
 **NOTE**
 Use *JSHELL* to experiment with Java
 
@@ -25,3 +17,12 @@ Use *JSHELL* to experiment with Java
  send it back to GitHub
 
 ```
+final int BIG = 10_000_000;
+```   
+During the class, I have learned about different infinities
+
+```
+Integer.MAX_VALUE
+Double.MAX_VALUE + 1 
+```
+
